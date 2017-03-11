@@ -1,0 +1,12 @@
+-# Stock_Prediction
+ -Course project for Software Engineering-Web Application(Rutgers 16:332:568). 
+ -An android app for stock prediction. 
+ -
+ -Used SQLite for local storage.
+ -Used Google AChartEngine for data visualization.
+ -Used Yahoo stock api for data retrival.
+ -Used Artificial Neural Network and Support Vector Machine for stock predicction.
+ -
+ -Instruction: It's a buggy class project, only for demonstration purpose. 
+ -              We only downloaded data for serveral stocks, including Google, Amazon, Yahoo, Oracle and Miscrosoft.
+ -              Use the four-character stock code to search for the stock price. e.g. GOOG, AMZN, YHOO, ORCL or MSFT.
