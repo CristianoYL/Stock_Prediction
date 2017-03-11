@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Stock Prediction App</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_login">Sign In/Up</string>
+
+    <string name="home_description">Welcome! This is a free app which can predict Stock Price!</string>
+    <string name="home_search">Please enter the stock code you want to search:</string>
+    <string name="search_hint">stock code</string>
+    <string name="favourite_description">These are your favourite stocks:</string>
+    <string name="about_us_description">Team member:\nAo Guo\nGuojun Ren\nLi Yin\nQianyu Wang\nXinhe Gao</string>
+    <string name="contact_us_description">Should you encounter any difficulty, please feel free to contact technical support via:</string>
+    <string name="contact_email">E-mail:li.yin.cristiano@rutgers.edu</string>
+
+    <string name="baseCount">Base Count:</string>
+    <string name="predictCount">Prediction Count:</string>
+    <string name="kdj">KDJ Advice:</string>
+    <string name="macd">MACD Advice:</string>
+
+    <string name="buy">BUY!</string>
+    <string name="keep">Keep</string>
+    <string name="sell">SELL!</string>
+    <string name="error">Unavailable</string>
+    <string name="again">Predict Again</string>
+    <string name="ann">Show ANN Prediction</string>
+    <string name="svm">Show SVM Prediction</string>
+    <string name="advice">Show Advice</string>
+    <string name="calculating">ANN calculating, please Wait...</string>
+
+
+
+
+</resources>
