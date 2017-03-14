@@ -5,7 +5,7 @@
  -Used SQLite for local storage.
  -Used Google AChartEngine for data visualization.
  -Used Yahoo stock api for data retrival.
- -Used Artificial Neural Network and Support Vector Machine for stock predicction.
+ -Used Artificial Neural Network and Support Vector Machine for stock prediction.
  -
  -Instruction: It's a buggy class project, only for demonstration purpose. 
  -              We only downloaded data for serveral stocks, including Google, Amazon, Yahoo, Oracle and Miscrosoft.
